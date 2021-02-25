@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.wrapperone{
+    flex: .35;
+    height: 100vh;
+    border-right: 1px solid black;
+}
+.wrappertwo{
+    flex: .65;
+
+}
