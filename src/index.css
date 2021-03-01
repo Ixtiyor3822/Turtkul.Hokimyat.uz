@@ -41,3 +41,8 @@ code {
   align-items: center;
   margin-top: 5px;
 }
+.block{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}

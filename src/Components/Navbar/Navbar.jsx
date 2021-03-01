@@ -8,7 +8,7 @@ const Navbar = () => {
                 <div className="sayt-navbar">
                     <a href="/" className="nav-link">
                         <h2>Hokimyat rasmiy sayti</h2></a>
-                    <NavLink to='/arizaberish' className="nav-link">
+                    <NavLink to='/arizaberish' className="nav-link active">
                         Ariza berish
                     </NavLink>
                     <NavLink to='/arizalarim' className="nav-link">
